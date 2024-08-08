@@ -8,7 +8,7 @@
 e-mail: 1539ivanov@mail.ru<br>
 Telegram: t.me/sergoiv<br>
 Телефон: +7-977-268-70-12<br>
-github: https://github.com/SergeyIvanov11/resume <br>
+github: https://github.com/SergeyIvanov11/Resume <br>
 
 ## Образование
 ### Высшее
