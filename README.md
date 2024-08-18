@@ -15,6 +15,8 @@
 * Задание в рамках учебного курса ["Unit-тесты, Mockito"](https://github.com/SergeyIvanov11/healthcare-service-master)
 
 * Задание в рамках учебного курса ["Протокол HTTP. Вызов удаленных серверов"](https://github.com/SergeyIvanov11/HTTPClient)
+
+* Задание в рамках учебного курса ["Spring JDBC, PostgreSQL, миграции"](https://github.com/SergeyIvanov11/JDBC_API_Netology)
   
 * Задача от компании Экосистема Альфа (партнера Нетологии) - [приложение "Банковские карты"](https://github.com/SergeyIvanov11/BankCards)
 
