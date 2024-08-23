@@ -17,6 +17,10 @@
 * Задание в рамках учебного курса ["Протокол HTTP. Вызов удаленных серверов"](https://github.com/SergeyIvanov11/HTTPClient)
 
 * Задание в рамках учебного курса ["Spring JDBC, PostgreSQL, миграции"](https://github.com/SergeyIvanov11/JDBC_API_Netology)
+
+* Задание в рамках учебного курса ["ORM, Hibernate"](https://github.com/SergeyIvanov11/ORM_Hibernate_Netology/tree/entity_manager)
+
+* Задание в рамках учебного курса ["Слой DAO c JPA Repositories"](https://github.com/SergeyIvanov11/ORM_Hibernate_Netology/tree/master)
   
 * Задача от компании Экосистема Альфа (партнера Нетологии) - [приложение "Банковские карты"](https://github.com/SergeyIvanov11/BankCards)
 
