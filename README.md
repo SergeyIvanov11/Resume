@@ -36,7 +36,7 @@
 
 * [Шаблоны проектирования](https://github.com/SergeyIvanov11/Resume/blob/main/Certificates/Шаблоны%20проектирования.pdf)
 
-* [SQL]()
+* [SQL](https://github.com/SergeyIvanov11/Resume/blob/main/Certificates/SQL.pdf)
 
 ## Диплом об окончании высшего учебного заведения
 
