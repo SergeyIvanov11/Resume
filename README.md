@@ -2,7 +2,7 @@
 ## Java-разработчик ([резюме](https://github.com/SergeyIvanov11/Resume/blob/main/resume.md))
 
 ## Вот что я умею:
-* Java. Репозиторий с дипломной работой ["Поисковая система"]()
+* Java. Репозиторий с дипломной работой ["Облачное хранилище"](https://github.com/SergeyIvanov11/NetologyCloudService)
 
 * Репозиторий с курсовой работой ["Сервис перевода денег"](https://github.com/SergeyIvanov11/MoneyTransferServiceApp)
 
