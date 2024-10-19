@@ -24,7 +24,7 @@
   
 * Задача от компании Экосистема Альфа (партнера Нетологии) - [приложение "Банковские карты"](https://github.com/SergeyIvanov11/BankCards)
 
-## Сертификаты Нетологии:
+## Сертификаты:
 
 * [Java Core](https://github.com/SergeyIvanov11/Resume/blob/main/Certificates/Java%20Core.pdf)
 
@@ -38,10 +38,10 @@
 
 * [SQL](https://github.com/SergeyIvanov11/Resume/blob/main/Certificates/SQL.pdf)
 
-## Диплом об окончании высшего учебного заведения
+## Дипломы
 
 * [ПМГМУ им. И.М. Сеченова](https://github.com/SergeyIvanov11/Resume/blob/main/Diplomas/Диплом%20ВО.jpg)
 
 * [Диплом Нетологии о профессиональной переподготовке](https://github.com/SergeyIvanov11/Resume/blob/main/Certificates/Нетология%20Диплом.pdf)
 
-* [Диплом JavaRush](https://github.com/SergeyIvanov11/Resume/blob/main/Certificates/Нетология%20Диплом.pdf)
+* [Диплом JavaRush](https://github.com/SergeyIvanov11/Resume/blob/main/Certificates/JavaRush_Sergey_Ivanov.pdf)
