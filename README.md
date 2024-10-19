@@ -42,4 +42,6 @@
 
 * [ПМГМУ им. И.М. Сеченова](https://github.com/SergeyIvanov11/Resume/blob/main/Diplomas/Диплом%20ВО.jpg)
 
-* [Диплом Нетологии о профессиональной переподготовке]()
+* [Диплом Нетологии о профессиональной переподготовке](https://github.com/SergeyIvanov11/Resume/blob/main/Certificates/Нетология%20Диплом.pdf)
+
+* [Диплом JavaRush](https://github.com/SergeyIvanov11/Resume/blob/main/Certificates/Нетология%20Диплом.pdf)
