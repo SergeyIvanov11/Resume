@@ -1,5 +1,5 @@
 # Иванов Сергей Игоревич
-## Java-разработчик (junior)
+## Java-разработчик
 
 ## Личная информация
 Город проживания: Москва<br>
@@ -21,8 +21,9 @@ github: https://github.com/SergeyIvanov11/Resume <br>
 Направление:	Java-разработчик<br>
 Период обучения:	09.2023 - 10.2024<br>
 
-## Опыт работы
-
+Курс Java Developer Professional<br>
+Учебное заведение:	JavaRush University<br>
+Период обучения:	08.2023 - 09.2024<br>
 
 ## Навыки
 Hard skills:
